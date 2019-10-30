@@ -10,4 +10,4 @@ This project is to read your lips language with your phone camera when your envi
 ⚪11/27 Complete Test on both iOS and android device 
 ### Alpha Design
 
-![]{img/1.png}  ![]{img/2.png}
+![ ]{img/1.png}  ![ ]{img/2.png}
