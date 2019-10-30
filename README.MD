@@ -8,6 +8,10 @@ This project is to read your lips language with your phone camera when your envi
 ⚪11/25 Complete model training 
 
 ⚪11/27 Complete Test on both iOS and android device 
+### Use scene on Google Assistant
+
+![Use case demo page](img/3.png)
+
 ### Alpha Design
 
 ![Startup Page](img/1.png) ![Recognition Page](img/2.png)
